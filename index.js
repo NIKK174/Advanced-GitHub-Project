@@ -1,4 +1,3 @@
-function helloWorld(){
-	console.log("Welcome to advanced GitHub Project");
-}
-helloWorld();
+import { greeting } from './external/helper-functions/greeting.js';
+
+console.log(greeting("User"));

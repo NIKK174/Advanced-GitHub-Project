@@ -1,0 +1,3 @@
+[submodule "external/helper-functions"]
+	path = external/helper-functions
+	url = https://github.com/NIKK174/NIKK174-helper-functions.git
