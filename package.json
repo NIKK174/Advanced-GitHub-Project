@@ -1,0 +1,11 @@
+{
+  "name": "advanced-github-project",
+  "version": "1.0.0",
+  "description": "Это описание проекта",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
